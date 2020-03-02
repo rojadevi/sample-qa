@@ -1,0 +1,11 @@
+Git hub
+
+Clone - git clone .
+Add - git add
+commit - git commit -m "text file"
+Push - git push
+Pull-
+
+
+
+
