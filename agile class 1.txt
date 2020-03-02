@@ -1,0 +1,25 @@
+Agile Methodology
+
+Difference brtween Agile & Water fall Model
+1. Water fall model 
+a. Once you finished one phase then only you can go to the another phase.
+Ex: after finishing the development then only we can go to the next phase testing.
+2. Agile methodology
+a. It's a  continuous process,Whole scrum team participate in the each every phase of product development.
+b. We can easily find the issues in every sprint, we can easily fix the issues in time.
+c. Business people also parcipate in the work, If business people wants to make any changes in the requirements,they can change it easily.
+d. In agile methodology  daily we have scrum meetings, In those meetings we can discuss yesterday what we did, Tommarrow what will going to do.
+e. Intially we have Back log grooming,Sprint planning meeting,Daily stand up meeting,scrum reveiw meeting, then we have retrospective,
+    meeting end of the product
+  Back log brooming - After dicuss the requiremens from business people, We will priorized our work based on the how much time it can take, 
+                      in this meeting senior developer or scrum master will play major role.
+  Daily stand up meetings - In this meeting we will discuss how much work we did yesterday, what we are going to do. 
+                            If we are facing any hurdles in the work we can discuss with  BA in this meeting.
+ 
+  sprint review meeting - After complete the development and testing, We will give demo of our product to the customer.
+  retrospective meeting - In this meeting whole team discussed about the last sprint (What mistakes we did,
+  Sprint planning meeting - Product owner already set up the back log (requirements), 
+  In this planning meeting we will discuss how many requirements we need to full fill in the first sprint, second sprint...e.t.c
+
+
+
